@@ -1,6 +1,6 @@
 # Mini-task CLI usage
 
-This is a bare-minimum usage of CLI according to mini task on **Day 1** (14/04/2025)
+This is a bare-minimum usage of CLI using Linux terminal according to mini task on **Day 1** (14/04/2025)
 
 ## Wihtout loop
 
