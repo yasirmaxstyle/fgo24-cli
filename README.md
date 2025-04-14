@@ -36,3 +36,9 @@ ls
 rmdir latihan4.txt
 
 ```
+## Moving songs to their corresponding folders
+
+```bash
+mkdir Blackpink Evanescence "Linkin Park"
+for songs in Blackpink Evanescence "Linkin Park"; do mv *"$songs"* "$songs"/;done
+```
